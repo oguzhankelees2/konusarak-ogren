@@ -38,8 +38,8 @@
 			"@styles/*": [
 				"src/shared/styles/*",
 			],
-			"@translations/*": [
-				"src/shared/translations/*",
+			"@databases/*" : [
+				"src/shared/databases/*"
 			],
 			"@routers/*": [
 				"src/shared/routers/*",

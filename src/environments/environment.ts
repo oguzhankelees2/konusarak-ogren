@@ -1,4 +1,4 @@
 export const environment = {
-	appUrl: '- https://rickandmortyapi.com',
+	appUrl: 'https://rickandmortyapi.com',
 	apiPrefix : '/api'
 };
