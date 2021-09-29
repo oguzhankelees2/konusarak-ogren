@@ -79,7 +79,7 @@ const EpisodeDetail = ({route, navigation}) => {
 
 			</View>
 			<Text style={styles.title}>
-				Charachers ({characters?.length || 0})
+				Characters ({characters?.length || 0})
 			</Text>
 			<FlatList 
 				contentContainerStyle={{paddingHorizontal:12, marginTop:15}}
