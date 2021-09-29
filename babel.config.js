@@ -21,6 +21,7 @@ module.exports = {
 					'@styles': './src/shared/styles',
 					'@components': './src/shared/components',
 					'@routers' : './src/shared/routers',
+					'@databases' : './src/shared/databases',
 					'@base' : '.'
 				}
 			}
